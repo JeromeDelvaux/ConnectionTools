@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\ConnectionTools\obj\Debug\netstandard2.0\ConnectionTools.csprojAssemblyReference.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\ConnectionTools\obj\Debug\netstandard2.0\ConnectionTools.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\ConnectionTools\obj\Debug\netstandard2.0\ConnectionTools.AssemblyInfo.cs
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\VideoProject\ConnectionTools\obj\Debug\netstandard2.0\ConnectionTools.csproj.CoreCompileInputs.cache
